@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "oCnGYcJ7m94iiIga8vAfPWIzYE31J9Xmz2xUAuCoRx90rT4ryJsjeZj4oA6GO535BX4L5Ymg5XP35QT402DJ4g==",
+  "dgSpecHash": "hzG0gojK6t7XBMQit/XzS2vQAjlKxefcP90HzMv/1bS/AdU5iTIcViAVOXvOqbLub8CS7Y7oHU+MguGi7ejRrA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\jeoffreyfischer\\Documents\\Projects\\ToDoAppBis\\ToDoAppBis\\todo-api\\todo-api.csproj",
+  "projectFilePath": "c:\\Users\\jeoffreyfischer\\Documents\\Projects\\ToDoAppBis\\ToDoAppBis\\todo-api\\todo-api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jeoffreyfischer\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.2\\microsoft.aspnetcore.openapi.7.0.2.nupkg.sha512",
     "C:\\Users\\jeoffreyfischer\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
