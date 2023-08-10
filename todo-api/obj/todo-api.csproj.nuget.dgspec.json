@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\jeoffreyfischer\\Documents\\Projects\\ToDoAppBis\\ToDoAppBis\\todo-api\\todo-api.csproj": {}
+    "C:\\Users\\jeoffreyfischer\\Documents\\Projects\\ToDoAppBis\\ToDoAppBis\\todo-api\\todo-api.csproj": {}
   },
   "projects": {
-    "c:\\Users\\jeoffreyfischer\\Documents\\Projects\\ToDoAppBis\\ToDoAppBis\\todo-api\\todo-api.csproj": {
+    "C:\\Users\\jeoffreyfischer\\Documents\\Projects\\ToDoAppBis\\ToDoAppBis\\todo-api\\todo-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\jeoffreyfischer\\Documents\\Projects\\ToDoAppBis\\ToDoAppBis\\todo-api\\todo-api.csproj",
+        "projectUniqueName": "C:\\Users\\jeoffreyfischer\\Documents\\Projects\\ToDoAppBis\\ToDoAppBis\\todo-api\\todo-api.csproj",
         "projectName": "todo-api",
-        "projectPath": "c:\\Users\\jeoffreyfischer\\Documents\\Projects\\ToDoAppBis\\ToDoAppBis\\todo-api\\todo-api.csproj",
+        "projectPath": "C:\\Users\\jeoffreyfischer\\Documents\\Projects\\ToDoAppBis\\ToDoAppBis\\todo-api\\todo-api.csproj",
         "packagesPath": "C:\\Users\\jeoffreyfischer\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\jeoffreyfischer\\Documents\\Projects\\ToDoAppBis\\ToDoAppBis\\todo-api\\obj\\",
+        "outputPath": "C:\\Users\\jeoffreyfischer\\Documents\\Projects\\ToDoAppBis\\ToDoAppBis\\todo-api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
